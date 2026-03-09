@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Syndicate of Luxury Resources",
+		"isNationalWonder": true,
+		"cost": 0,
+		"uniques": [
+			"Can be purchased with [Gold] [in capital]",
+			"Moves to new capital when capital changes",
+			"Provides [9999] [Furs]",
+			"Provides [9999] [Cotton]",
+			"Provides [9999] [Dyes]",
+			"Provides [9999] [Gems]",
+			"Provides [9999] [Gold Ore]",
+			"Provides [9999] [Silver]",
+			"Provides [9999] [Incense]",
+			"Provides [9999] [Ivory]",
+			"Provides [9999] [Silk]",
+			"Provides [9999] [Spices]",
+			"Provides [9999] [Wine]",
+			"Provides [9999] [Sugar]",
+			"Provides [9999] [Marble]",
+			"Provides [9999] [Whales]",
+			"Provides [9999] [Pearls]",
+			"Provides [9999] [Citrus]",
+			"Provides [9999] [Copper]",
+			"Provides [9999] [Crab]",
+			"Provides [9999] [Salt]",
+			"Provides [9999] [Truffles]",
+			"Provides [9999] [Jewelry]",
+			"Provides [9999] [Porcelain]",
+			"Only available <for [Human player] Civilizations><hidden from users>"
+    ]
+	  	"replacementTextForUniques": "Can be purchased with Gold in capital\nMoves to new capital when capital changes\nProvides 9999 of each type of Luxury Resource"
+  },
+  {
+    "name": "Local Syndicate of Strategy Resources",
+		"cost": 0,
+		"uniques": [
+			"Can be purchased with [Gold] [in all cities]",
+			"Destroyed when the city is captured",
+			"Provides [9999] [Horses] <after discovering [Animal Husbandry]>",
+			"Provides [9999] [Iron] <after discovering [Iron Working]>",
+			"Provides [9999] [Coal] <after discovering [Industrialization]>",
+			"Provides [9999] [Oil] <after discovering [Biology]>",
+			"Provides [9999] [Aluminum] <after discovering [Electricity]>",
+			"Provides [9999] [Uranium] <after discovering [Atomic Theory]>",
+			"Only available <for [Human player] Civilizations><hidden from users>"
+    ]
+	  	"replacementTextForUniques": "Can be purchased with Gold in all cities\nDestroyed when the city is captured\nProvides 9999 of each type of Strategy Resource"
+  }/*,
+  {
+    "name": "Local Syndicate of Bonus Resources",
+		"cost": 0,
+		"uniques": [
+			"Can be purchased with [Gold] [in all cities]",
+			"Destroyed when the city is captured",
+			"Provides [9999] [Cattle]",
+			"Provides [9999] [Sheep]",
+			"Provides [9999] [Deer]",
+			"Provides [9999] [Bananas]",
+			"Provides [9999] [Wheat]",
+			"Provides [9999] [Stone]",
+			"Provides [9999] [Fish]",
+			"Comment [Provides 9999 Bonus Resources]",
+			"Only available <for [Human player] Civilizations><hidden from users>"
+    ]
+  }*/
+]
